@@ -1,0 +1,50 @@
+.container {
+  margin-bottom: 100px;
+}
+.carousel-item {
+  padding: 20px 20px;
+}
+.buy_now_button {
+  padding: 10px 25px;
+  background-color: rgb(7, 181, 250);
+  color: white;
+  border-radius: 7px;
+  text-decoration: none;
+}
+.pale-order {
+  width: 100%;
+}
+.row {
+  padding: 80px 60px;
+}
+.carousel-indicators li {
+  background-color: white;
+  background-color: grey;
+}
+.carousel-indicators .active {
+  background-color: rgb(21, 173, 233);
+}
+.border {
+  border: none;
+}
+.card-footer {
+  border: none;
+  background-color: rgb(255, 254, 254);
+}
+.card {
+  background-color: rgb(255, 254, 254);
+}
+.i_con {
+  float: left;
+}
+h6 {
+  color: #999;
+}
+.pale-order {
+  width: 100%;
+}
+footer {
+  text-align: center;
+  color: rgb(182, 177, 177);
+  font-size: 1rem;
+}
